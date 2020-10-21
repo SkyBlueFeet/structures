@@ -10,3 +10,15 @@
 # structures
 
 Learning JavaScript Data Structures and Aigorithms
+
+## List
+
+## Stack
+
+## Queue
+
+## DeQueue
+
+## Dictionary
+
+## LinkedList
